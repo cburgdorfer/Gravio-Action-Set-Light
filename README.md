@@ -6,7 +6,8 @@ applications with ease. Gravio works with so called "Actions" that can be trigge
 by sensors such as buttons, thermometers, range detectors, magnet sensors, 
 vibration sensors, PIR sensors, CO2 sensors etc. 
 
-Actions are JSON files with the `.acs` ending.
+Actions are JSON files with the `.acs` ending and can imported straight into Gravio's
+Action Editor.
 
 For more information about Gravio, please visit [gravio.com](https://www.gravio.com), 
 the [Gravio YouTube Channel](https://www.youtube.com/channel/UCNgNcNp3jEHJQ1GeDSwmzYg) 
